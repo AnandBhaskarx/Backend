@@ -1,6 +1,6 @@
 # 🔐 Credential Saver – Full Stack Web Application
 
-## 📌 Project Overview
+📌 Project Overview
 
 This project is a secure and scalable full-stack web application designed to **store and manage website credentials**. Built using modern technologies like **Node.js**, **Express.js**, **MongoDB**, and **React**, it offers a seamless user experience with real-time feedback and responsive design.
 
